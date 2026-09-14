@@ -3,7 +3,7 @@ Idade: 31
 Cidade: São Paulo
 Email: ana@example.com
 
-Profissão: Backend Developer
+Profissão: Developer
 Linguagem: C#
 
 Hobby: RPG
