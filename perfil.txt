@@ -1,6 +1,7 @@
 Nome: Ana
 Idade: 31
 Cidade: São Paulo
+Email: ana@example.com
 
 Profissão: Developer
 Linguagem: C#
