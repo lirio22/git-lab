@@ -5,4 +5,4 @@ Cidade: São Paulo
 Profissão: Developer
 Linguagem: C#
 
-Hobby: Games
+Hobby: RPG
