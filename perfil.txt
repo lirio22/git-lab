@@ -4,6 +4,6 @@ Cidade: São Paulo
 Email: ana@example.com
 
 Profissão: Backend Developer
-Linguagem: C# e ASP.NET Core
+Linguagem: C#, SQL e ASP.NET Core
 
 Hobby: RPG
