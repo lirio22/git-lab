@@ -1,8 +1,8 @@
 Nome: Ana
 Idade: 30
-Cidade: S„o Paulo
+Cidade: S√£o Paulo
 
-Profiss„o: Developer
+Profiss√£o: Developer
 Linguagem: C#
 
 Hobby: Games
