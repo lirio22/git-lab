@@ -7,3 +7,5 @@ Profissão: Backend Developer
 Linguagem: C#, SQL e ASP.NET Core
 
 Hobby: RPG
+
+Status: Estudando Git
