@@ -1,6 +1,7 @@
 Nome: Ana
 Idade: 31
 Cidade: São Paulo
+País: Brasil
 Email: ana@example.com
 
 Profissão: Backend Developer
