@@ -3,6 +3,7 @@ Idade: 31
 Cidade: São Paulo
 País: Brasil
 Email: ana@example.com
+Disponibilidade: Remoto
 
 Profissão: Backend Developer
 Linguagem: C#, SQL e ASP.NET Core
